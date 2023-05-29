@@ -10,7 +10,7 @@ canvasbg:
 
 # personal links
 ## links icon base folder
-linkiconbase: /blogs/images/links/
+linkiconbase: /repo/images/links/
 ## array of links
 links:
   - name: twitter
