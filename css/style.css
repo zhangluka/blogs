@@ -293,8 +293,9 @@ p.post-info span.view-count:before,
   content: "📂";
 }
 header {
-  margin: 50px 50px;
+  margin: 50px auto;
   padding: 0 30px 0;
+  max-width: 750px;
 }
 header .site-title {
   letter-spacing: 4px;
@@ -324,11 +325,11 @@ header .links a img {
   height: 15px;
 }
 #container {
-  margin: auto;
+  margin: auto 40px;
 }
 #main {
   max-width: 750px;
-  margin: 50px 50px;
+  margin: 50px auto;
   padding: 0 30px 50px;
   position: relative;
 }
