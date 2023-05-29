@@ -1,5 +1,5 @@
 # favicon path to your logo
-favicon: /images/links/favicon.svg
+favicon: /repo/images/links/favicon.svg
 
 # canvas
 canvasbg:
@@ -10,7 +10,7 @@ canvasbg:
 
 # personal links
 ## links icon base folder
-linkiconbase: /images/links/
+linkiconbase: /repo/images/links/
 ## array of links
 links:
   - name: twitter
