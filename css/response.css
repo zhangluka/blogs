@@ -1,9 +1,11 @@
 @media screen and (max-width: 500px) {
   header {
-    margin: 40px auto 10px;
+    margin: 50px 0px;
+    padding: 0 44px 0 0;
   }
-  header .site-title a {
-    font-size: 14px;
+  #main {
+    margin: 50px 0px;
+    padding: 0 0 30px;
   }
   #main > ul > li {
     padding: 18px 0 20px;
@@ -11,7 +13,6 @@
   }
   #main > ul > li div.info {
     margin: 0 !important;
-    margin-top: 10px !important;
     width: 100%;
   }
   #main > ul > li img {
@@ -30,6 +31,9 @@
     width: 80% !important;
     margin: 0 !important;
     margin-top: 10px !important;
+  }
+  #main > ul.archive li.archive-item {
+    padding: 20px 0 10px;
   }
   #main article.post {
     line-height: 22px;
