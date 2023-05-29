@@ -4,16 +4,17 @@
 
 # Site
 title: Bobby's Blog
-subtitle: 'pleasure and meaning'
+subtitle: 'pleasure and meaningful'
 description: 'some random notes write down'
-keywords:
+keywords: 前端 博客 JavaScript React Vue
 author: Bobby
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: 'https://zhangluka.github.io/blogs/'
+url: 'https://zhangluka.github.io/blogs'
+root: '/blogs/'
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
