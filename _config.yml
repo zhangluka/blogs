@@ -102,5 +102,5 @@ theme: linear
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  url: 'https://zhangluka.github.io/blogs'
+  repo: 'https://zhangluka.github.io/blogs'
   branch: gh-blogs
