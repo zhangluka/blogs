@@ -103,4 +103,4 @@ theme: linear
 deploy:
   type: 'git'
   repo: 'https://github.com/zhangluka/blogs'
-  branch: gh-blogs
+  branch: gh-pages
