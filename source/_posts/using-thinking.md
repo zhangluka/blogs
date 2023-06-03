@@ -1,6 +1,8 @@
 ---
 title: Using it and thinking in it
 top: 1
+date: 2023-06-03 12:26:32
+updated: 2023-06-03 12:26:32
 ---
 
 > 工作之后对于开发工具学习在认知上最大的转变就是 **学要致用，学习思想**，这也是我认为React文档李GET START章节Thinking in React这一栏很棒的原因，好工具的标配就是好文档。
