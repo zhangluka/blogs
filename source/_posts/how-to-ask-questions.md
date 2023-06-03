@@ -1,6 +1,8 @@
 ---
 title: How to ask questions
 top: 1
+date: 2023-05-28 12:26:32
+updated: 2023-05-28 12:26:32
 ---
 
 上周末网上冲浪的时候刷到这本类似小册的指南 [How To Ask Questions The Smart Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)，很适合上下班中午休息这种零碎的时间拿来看一看。文章说的主要是如何向社区里的`hacker`请教以及响应的回复，这里的hacker显然应该是指广义的对计算机方面具有高度理解的人，通篇看下来，有一些在自己日常工作中很是感同身受。
